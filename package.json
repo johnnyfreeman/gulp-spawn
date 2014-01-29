@@ -1,0 +1,29 @@
+{
+  "name": "gulp-spawn",
+  "version": "0.0.1",
+  "description": "Launch a new process",
+  "license": "MIT",
+  "repository": "johnnyfreeman/gulp-spawn",
+  "author": {
+    "name": "Johnny Freeman",
+    "email": "prsjohnny@gmail.com",
+    "url": "http://github.com/johnnyfreeman"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "gulpplugin",
+    "gulp",
+    "process"
+  ],
+  "dependencies": {
+    "gulp-util": "~2.2.0"
+  }
+}
